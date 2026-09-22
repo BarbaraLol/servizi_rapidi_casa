@@ -21,14 +21,14 @@ gantt
     axisFormat  %d %b
 
     section 1. Setup & Infrastruttura
-    Acquisto/upgrade VPS Aruba (fatto)                         :a1, 17-09-2026, 1d
-    configurazione server (fatto)                              :a2, 22-09-2026, 1d
+    Acquisto/upgrade VPS Aruba                         :done, a1, 17-09-2026, 1d
+    configurazione server                             :done, a2, 22-09-2026, 1d
     Installazione WordPress + SSL + DNS               :done, a3, 24-09-2026, 2d
     Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 26-09-2026, 1d
     Installazione plugin base (sicurezza, backup, cache)       :a5, 27-09-2026, 2d
 
     section 2. Design & Branding
-    Installazione tema Kadence + configurazione base (fatto)          :a6, 22-09-2026, 1d
+    Installazione tema Kadence + configurazione base         :done, a6, 22-09-2026, 1d
     Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 3d
     Personalizzazione immagini                                 :a8, 02-10-2026, 1d
     Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
@@ -44,10 +44,10 @@ gantt
     Flusso registrazione fornitori + verifica documenti        :a15, 18-10-2026, 2d
 
     section 5. Booking & Pagamenti
-    Setup WooCommerce + Stripe + PayPal                        :a16, 20-10-2026, 3d
-    Configurazione WooCommerce Subscriptions (piani)           :a17, 23-10-2026, 3d
-    Setup piani BASE / SILVER / GOLD / PLATINUM                :a18, 26-10-2026, 2d
-    Test flussi di pagamento (ambiente sandbox)                :a19, 28-10-2026, 2d
+    Setup WooCommerce + Stripe + PayPal                        :crit, a16, 20-10-2026, 3d
+    Configurazione WooCommerce Subscriptions (piani)           :crit, a17, 23-10-2026, 3d
+    Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a18, 26-10-2026, 2d
+    Test flussi di pagamento (ambiente sandbox)                :crit, a19, 28-10-2026, 2d
 
     section 6. Rifinitura & SEO
     Ottimizzazione SEO con RankMath (meta, sitemap, schema)    :a20, 30-10-2026, 3d
