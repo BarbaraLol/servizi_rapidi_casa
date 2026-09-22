@@ -28,18 +28,18 @@ gantt
     Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 23-09-2026, 1d
     Installazione plugin base (sicurezza, backup, cache)       :a5, 24-09-2026, 1d
 
-    section 2. Design & Branding
-    Installazione tema Kadence + configurazione base           :done, a6, 22-09-2026, 1d
-    Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 5d
-    Personalizzazione immagini                                 :a8, 02-10-2026, 4d
-    Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
-
-    section 3. Struttura & Pagine 
+    section 2. Struttura & Pagine 
     Confronto per struttura sito                               :crit, a10, 23-09-2026, 1d
     Creazione pagine - Home, Chi Siamo, Come Funziona          :a11, 24-09-2026, 4d
     Creazione pagine legali (Privacy, Cookie, Termini)         :a12, 23-09-2026, 10d
     Setup categorie servizi (idraulico, elettricista, ecc.)    :a13, 28-09-2026, 2d
-    Creazione pagine mancanti                                  :a14, 01-10-2026, 1d 
+    Creazione pagine mancanti                                  :a14, 01-10-2026, 1d
+
+    section 3. Design & Branding
+    Installazione tema Kadence + configurazione base           :done, a6, 22-09-2026, 1d
+    Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 5d
+    Personalizzazione immagini                                 :a8, 02-10-2026, 4d
+    Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
 
     section 4. Core Marketplace
     Configurazione HivePress (profili utenti, fornitori, annunci) :a15, 02-10-2026, 5d
