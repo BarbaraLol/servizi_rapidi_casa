@@ -47,21 +47,21 @@ gantt
     Flusso registrazione fornitori + verifica documenti        :a17, 09-10-2026, 5d
 
     section 5. Punto di confronto
-    Confronto per pagamenti e lato legale                      :crit, chk1, a18, 08-10-2026, 1d
+    Confronto per pagamenti e lato legale                      :crit, a18, 08-10-2026, 1d
 
-    section 5. Booking & Pagamenti
+    section 6. Booking & Pagamenti
     Setup WooCommerce + Stripe + PayPal (probabile split fondi)         :crit, a19, 13-10-2026, 2d
     Configurazione WooCommerce abbonamenti / piani fornitori   :crit, a20, 15-10-2026, 2d
     Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a21, 17-10-2026, 2d
     Test flussi di pagamento (ambiente sandbox)                :crit, a22, 19-10-2026, 2d
 
-    section 6. Rifinitura & SEO
+    section 7. Rifinitura & SEO
     Google Analytics account                                   :crit, a23, 21-10-2026, 1d
     Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a24, 21-10-2026, 2d
     Ottimizzazione velocità (cache, immagini)         :a25, 23-10-2026, 2d
     Test responsive (mobile, tablet, desktop)                  :a26, 25-10-2026, 1d
 
-    section 7. Testing & Lancio
+    section 8. Testing & Lancio
     Testing completo flussi (cliente + fornitore + admin)      :a27, 25-10-2026, 1d
     Correzioni finali e ottimizzazioni eventuali               :a28, 26-10-2026, 1d
     Backup pre-lancio + Go Live                                :milestone, a29, 27-10-2026, 0d
