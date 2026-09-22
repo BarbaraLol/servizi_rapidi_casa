@@ -17,7 +17,7 @@ Questo documento è la **roadmap ufficiale di progetto** per la realizzazione de
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 gantt
-    title Roadmap Servizi Rapidi Casa - 7 settimane
+    title Roadmap Servizi Rapidi Casa - 6 settimane
     dateFormat  DD-MM-YYYY
     axisFormat  %d %b
 
