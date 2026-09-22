@@ -1,3 +1,7 @@
+# Roadmap sito web — Servizi Rapidi Casa
+
+## Timeline
+
 ```mermaid
 gantt
     title Timeline realizzazione sito — Servizi Rapidi Casa
@@ -5,7 +9,7 @@ gantt
     axisFormat  %d %b
 
     section Avvio
-    Kickoff: raccolta contenuti, foto, loghi, testi dal cliente   :a1, 2026-09-28, 14d
+    Kickoff - raccolta contenuti, foto, loghi, testi dal cliente   :a1, 2026-09-28, 14d
     Definizione sitemap e struttura pagine                        :a2, 2026-10-12, 7d
 
     section Setup tecnico
