@@ -1,3 +1,8 @@
+# Roadmap sito web — Servizi Rapidi Casa
+
+## Timeline
+
+```mermaid
 gantt
     title Timeline realizzazione sito — Servizi Rapidi Casa
     dateFormat  YYYY-MM-DD
@@ -30,3 +35,4 @@ gantt
 
     section Lancio
     Pubblicazione definitiva (go live)                              :milestone, a13, after a12, 0d
+```
