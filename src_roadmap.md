@@ -22,42 +22,47 @@ gantt
     axisFormat  %d %b
 
     section 1. Setup & Infrastruttura
-    Acquisto/upgrade VPS Aruba                         :done, a1, 17-09-2026, 1d
-    configurazione server                             :done, a2, 22-09-2026, 1d
-    Installazione WordPress + SSL + DNS               :done, a3, 24-09-2026, 2d
-    Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 26-09-2026, 1d
-    Installazione plugin base (sicurezza, backup, cache)       :a5, 27-09-2026, 2d
+    Acquisto/upgrade VPS Aruba                                 :done, a1, 17-09-2026, 1d
+    configurazione server                                      :done, a2, 22-09-2026, 1d
+    Installazione WordPress + SSL + DNS                        :done, a3, 24-09-2026, 1d
+    Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 23-09-2026, 1d
+    Installazione plugin base (sicurezza, backup, cache)       :a5, 24-09-2026, 1d
 
     section 2. Design & Branding
-    Installazione tema Kadence + configurazione base         :done, a6, 22-09-2026, 1d
-    Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 3d
-    Personalizzazione immagini                                 :a8, 02-10-2026, 1d
+    Installazione tema Kadence + configurazione base           :done, a6, 22-09-2026, 1d
+    Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 5d
+    Personalizzazione immagini                                 :a8, 02-10-2026, 4d
     Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
 
-    section 3. Struttura & Pagine Istituzionali
-    Creazione pagine - Home, Chi Siamo, Come Funziona           :a10, 06-10-2026, 3d
-    Creazione pagine legali (Privacy, Cookie, Termini)         :a11, 09-10-2026, 2d
-    Setup categorie servizi (idraulico, elettricista, ecc.)    :a12, 11-10-2026, 2d
+    section 3. Struttura & Pagine 
+    Confronto per struttura sito                               :crit, a10, 23-09-2026, 1d
+    Creazione pagine - Home, Chi Siamo, Come Funziona          :a11, 24-09-2026, 4d
+    Creazione pagine legali (Privacy, Cookie, Termini)         :a12, 23-09-2026, 10d
+    Setup categorie servizi (idraulico, elettricista, ecc.)    :a13, 28-09-2026, 2d
+    Creazione pagine mancanti                                  :a15, 01-10-2026, 1d 
 
     section 4. Core Marketplace
-    Configurazione HivePress (profili fornitori, annunci)      :a13, 13-10-2026, 3d
-    Sistema di ricerca e geolocalizzazione                     :a14, 16-10-2026, 2d
-    Flusso registrazione fornitori + verifica documenti        :a15, 18-10-2026, 2d
+    Configurazione HivePress (profili utenti, fornitori, annunci) :a16, 02-10-2026, 5d
+    Sistema di ricerca e geolocalizzazione                     :a17, 07-10-2026, 2d
+    Flusso registrazione fornitori + verifica documenti        :a18, 09-10-2026, 5d
+
+    section 5. Punto di confronto
+    Confronto per pagamenti e lato legale                      :crit, chk1, a19, 08-10-2026
 
     section 5. Booking & Pagamenti
-    Setup WooCommerce + Stripe + PayPal                        :crit, a16, 20-10-2026, 3d
-    Configurazione WooCommerce Subscriptions (piani)           :crit, a17, 23-10-2026, 3d
-    Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a18, 26-10-2026, 2d
-    Test flussi di pagamento (ambiente sandbox)                :crit, a19, 28-10-2026, 2d
+    Setup WooCommerce + Stripe + PayPal (split fondi?)         :crit, a20, 13-10-2026, 2d
+    Configurazione WooCommerce abbonamenti / piani fornitori   :crit, a21, 15-10-2026, 2d
+    Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a22, 17-10-2026, 2d
+    Test flussi di pagamento (ambiente sandbox)                :crit, a23, 19-10-2026, 2d
 
     section 6. Rifinitura & SEO
-    Ottimizzazione SEO con RankMath (meta, sitemap, schema)    :a20, 30-10-2026, 3d
-    Ottimizzazione velocità (WP Rocket, immagini WebP)         :a21, 02-11-2026, 2d
-    Test responsive (mobile, tablet, desktop)                  :a22, 04-11-2026, 2d
+    Google Analytics account                                   :crit, a24, 21-10-2026, 1d
+    Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a25, 21-10-2026, 2d
+    Ottimizzazione velocità (cache, immagini)         :a26, 23-10-2026, 2d
+    Test responsive (mobile, tablet, desktop)                  :a27, 25-10-2026, 1d
 
     section 7. Testing & Lancio
-    Testing completo flussi (cliente + fornitore + admin)      :a23, 06-11-2026, 3d
-    Revisione con il cliente e raccolta feedback               :a24, 09-11-2026, 3d
-    Correzioni finali e ottimizzazioni                         :a25, 12-11-2026, 2d
-    Backup pre-lancio + Go Live                                :milestone, a26, 14-11-2026, 0d
+    Testing completo flussi (cliente + fornitore + admin)      :a28, 25-10-2026, 1d
+    Correzioni finali e ottimizzazioni eventuali               :a29, 26-10-2026, 1d
+    Backup pre-lancio + Go Live                                :milestone, a30, 27-10-2026, 0d
 ```
