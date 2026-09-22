@@ -58,7 +58,7 @@ gantt
     Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
 
     section 4. Core Marketplace
-    Configurazione HivePress (profili utenti, fornitori, annunci) :a15, 02-10-2026, 5d
+    HivePress (profili utenti, fornitori, annunci) :a15, 02-10-2026, 5d
     Sistema di ricerca e geolocalizzazione                     :a16, 07-10-2026, 2d
     Flusso registrazione fornitori + verifica documenti        :a17, 09-10-2026, 5d
 
