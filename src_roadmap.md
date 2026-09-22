@@ -15,6 +15,7 @@ Questo documento è la **roadmap ufficiale di progetto** per la realizzazione de
 ## 🗓️ Timeline di Progetto
 
 ```mermaid
+%%{init: {'theme':'forest'}}%%
 gantt
     title Roadmap Servizi Rapidi Casa - 7 settimane
     dateFormat  DD-MM-YYYY
