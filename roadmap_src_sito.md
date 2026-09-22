@@ -1,7 +1,3 @@
-# Roadmap sito web — Servizi Rapidi Casa
-
-## Timeline
-
 ```mermaid
 gantt
     title Timeline realizzazione sito — Servizi Rapidi Casa
