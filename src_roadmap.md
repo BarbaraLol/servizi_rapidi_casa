@@ -27,8 +27,8 @@ Questo documento è la **roadmap ufficiale di progetto** per la realizzazione de
     'topPadding': 60,
     'leftPadding': 220,
     'gridLineStartPadding': 20,
-    'fontSize': 20,
-    'sectionFontSize': 20,
+    'fontSize': 22,
+    'sectionFontSize': 22,
     'numberSectionStyles': 4
   }
 }}%%
