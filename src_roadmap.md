@@ -30,7 +30,7 @@ gantt
     section 2. Design & Branding
     Installazione tema Kadence + configurazione base (fatto)          :a6, 22-09-2026, 1d
     Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 3d
-    Personalizzazione immagini                                 :a8, 02-10-2026
+    Personalizzazione immagini                                 :a8, 02-10-2026, 1d
     Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
 
     section 3. Struttura & Pagine Istituzionali
