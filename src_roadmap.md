@@ -23,39 +23,40 @@ gantt
     section 1. Setup & Infrastruttura
     Acquisto/upgrade VPS Aruba (fatto)                         :a1, 17-09-2026, 1d
     configurazione server (fatto)                              :a2, 22-09-2026, 1d
-    Installazione WordPress + SSL + DNS (fatto)                :a3, 2026-09-24, 2d
-    Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 2026-09-26, 1d
-    Installazione plugin base (sicurezza, backup, cache)       :a5, 2026-09-27, 2d
+    Installazione WordPress + SSL + DNS (fatto)                :a3, 24-09-2026, 2d
+    Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 26-09-2026, 1d
+    Installazione plugin base (sicurezza, backup, cache)       :a5, 27-09-2026, 2d
 
     section 2. Design & Branding
     Installazione tema Kadence + configurazione base (fatto)          :a6, 22-09-2026, 1d
-    Personalizzazione grafica (colori, font, logo)             :a7, 2026-10-01, 3d
-    Personalizzazione immagini                                 :a8, 
-    Setup header, footer, menu di navigazione                  :a8, 2026-10-04, 2d
+    Personalizzazione grafica (colori, font, logo)             :a7, 01-10-2026, 3d
+    Personalizzazione immagini                                 :a8, 02-10-2026
+    Setup header, footer, menu di navigazione                  :a9, 04-10-2026, 2d
 
     section 3. Struttura & Pagine Istituzionali
-    Creazione pagine - Home, Chi Siamo, Come Funziona           :a9, 2026-10-06, 3d
-    Creazione pagine legali (Privacy, Cookie, Termini)         :a10, 2026-10-09, 2d
-    Setup categorie servizi (idraulico, elettricista, ecc.)    :a11, 2026-10-11, 2d
+    Creazione pagine - Home, Chi Siamo, Come Funziona           :a10, 06-10-2026, 3d
+    Creazione pagine legali (Privacy, Cookie, Termini)         :a11, 09-10-2026, 2d
+    Setup categorie servizi (idraulico, elettricista, ecc.)    :a12, 11-10-2026, 2d
 
     section 4. Core Marketplace
-    Configurazione HivePress (profili fornitori, annunci)      :a12, 2026-10-13, 3d
-    Sistema di ricerca e geolocalizzazione                     :a13, 2026-10-16, 2d
-    Flusso registrazione fornitori + verifica documenti        :a14, 2026-10-18, 2d
+    Configurazione HivePress (profili fornitori, annunci)      :a13, 13-10-2026, 3d
+    Sistema di ricerca e geolocalizzazione                     :a14, 16-10-2026, 2d
+    Flusso registrazione fornitori + verifica documenti        :a15, 18-10-2026, 2d
 
     section 5. Booking & Pagamenti
-    Setup WooCommerce + Stripe + PayPal                        :a15, 2026-10-20, 3d
-    Configurazione WooCommerce Subscriptions (piani)           :a16, 2026-10-23, 3d
-    Setup piani BASE / SILVER / GOLD / PLATINUM                :a17, 2026-10-26, 2d
-    Test flussi di pagamento (ambiente sandbox)                :a18, 2026-10-28, 2d
+    Setup WooCommerce + Stripe + PayPal                        :a16, 20-10-2026, 3d
+    Configurazione WooCommerce Subscriptions (piani)           :a17, 23-10-2026, 3d
+    Setup piani BASE / SILVER / GOLD / PLATINUM                :a18, 26-10-2026, 2d
+    Test flussi di pagamento (ambiente sandbox)                :a19, 28-10-2026, 2d
 
     section 6. Rifinitura & SEO
-    Ottimizzazione SEO con RankMath (meta, sitemap, schema)    :a19, 2026-10-30, 3d
-    Ottimizzazione velocità (WP Rocket, immagini WebP)         :a20, 2026-11-02, 2d
-    Test responsive (mobile, tablet, desktop)                  :a21, 2026-11-04, 2d
+    Ottimizzazione SEO con RankMath (meta, sitemap, schema)    :a20, 30-10-2026, 3d
+    Ottimizzazione velocità (WP Rocket, immagini WebP)         :a21, 02-11-2026, 2d
+    Test responsive (mobile, tablet, desktop)                  :a22, 04-11-2026, 2d
 
     section 7. Testing & Lancio
-    Testing completo flussi (cliente + fornitore + admin)      :a22, 2026-11-06, 3d
-    Revisione con il cliente e raccolta feedback               :a23, 2026-11-09, 3d
-    Correzioni finali e ottimizzazioni                         :a24, 2026-11-12, 2d
-    Backup pre-lancio + Go Live                                :milestone, a25, 2026-11-14, 0d
+    Testing completo flussi (cliente + fornitore + admin)      :a23, 06-11-2026, 3d
+    Revisione con il cliente e raccolta feedback               :a24, 09-11-2026, 3d
+    Correzioni finali e ottimizzazioni                         :a25, 12-11-2026, 2d
+    Backup pre-lancio + Go Live                                :milestone, a26, 14-11-2026, 0d
+```
