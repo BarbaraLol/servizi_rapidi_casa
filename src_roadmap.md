@@ -32,7 +32,7 @@ gantt
     Setup header, footer, menu di navigazione                  :a7, 2026-10-04, 2d
 
     section 3. Struttura & Pagine Istituzionali
-    Creazione pagine: Home, Chi Siamo, Come Funziona           :a8, 2026-10-06, 3d
+    Creazione pagine - Home, Chi Siamo, Come Funziona           :a8, 2026-10-06, 3d
     Creazione pagine legali (Privacy, Cookie, Termini)         :a9, 2026-10-09, 2d
     Setup categorie servizi (idraulico, elettricista, ecc.)    :a10, 2026-10-11, 2d
 
