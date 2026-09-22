@@ -16,7 +16,7 @@ Questo documento è la **roadmap ufficiale di progetto** per la realizzazione de
 
 ```mermaid
 %%{init: {
-  'theme': 'default',
+  'theme': 'dark',
   'themeVariables': {
     'fontSize': '20px',
     'sectionFontSize': '20px'
