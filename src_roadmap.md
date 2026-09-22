@@ -39,30 +39,30 @@ gantt
     Creazione pagine - Home, Chi Siamo, Come Funziona          :a11, 24-09-2026, 4d
     Creazione pagine legali (Privacy, Cookie, Termini)         :a12, 23-09-2026, 10d
     Setup categorie servizi (idraulico, elettricista, ecc.)    :a13, 28-09-2026, 2d
-    Creazione pagine mancanti                                  :a15, 01-10-2026, 1d 
+    Creazione pagine mancanti                                  :a14, 01-10-2026, 1d 
 
     section 4. Core Marketplace
-    Configurazione HivePress (profili utenti, fornitori, annunci) :a16, 02-10-2026, 5d
-    Sistema di ricerca e geolocalizzazione                     :a17, 07-10-2026, 2d
-    Flusso registrazione fornitori + verifica documenti        :a18, 09-10-2026, 5d
+    Configurazione HivePress (profili utenti, fornitori, annunci) :a15, 02-10-2026, 5d
+    Sistema di ricerca e geolocalizzazione                     :a16, 07-10-2026, 2d
+    Flusso registrazione fornitori + verifica documenti        :a17, 09-10-2026, 5d
 
     section 5. Punto di confronto
-    Confronto per pagamenti e lato legale                      :crit, chk1, a19, 08-10-2026
+    Confronto per pagamenti e lato legale                      :crit, chk1, a18, 08-10-2026, 1d
 
     section 5. Booking & Pagamenti
-    Setup WooCommerce + Stripe + PayPal (split fondi?)         :crit, a20, 13-10-2026, 2d
-    Configurazione WooCommerce abbonamenti / piani fornitori   :crit, a21, 15-10-2026, 2d
-    Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a22, 17-10-2026, 2d
-    Test flussi di pagamento (ambiente sandbox)                :crit, a23, 19-10-2026, 2d
+    Setup WooCommerce + Stripe + PayPal (split fondi?)         :crit, a19, 13-10-2026, 2d
+    Configurazione WooCommerce abbonamenti / piani fornitori   :crit, a20, 15-10-2026, 2d
+    Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a21, 17-10-2026, 2d
+    Test flussi di pagamento (ambiente sandbox)                :crit, a22, 19-10-2026, 2d
 
     section 6. Rifinitura & SEO
-    Google Analytics account                                   :crit, a24, 21-10-2026, 1d
-    Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a25, 21-10-2026, 2d
-    Ottimizzazione velocità (cache, immagini)         :a26, 23-10-2026, 2d
-    Test responsive (mobile, tablet, desktop)                  :a27, 25-10-2026, 1d
+    Google Analytics account                                   :crit, a23, 21-10-2026, 1d
+    Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a24, 21-10-2026, 2d
+    Ottimizzazione velocità (cache, immagini)         :a25, 23-10-2026, 2d
+    Test responsive (mobile, tablet, desktop)                  :a26, 25-10-2026, 1d
 
     section 7. Testing & Lancio
-    Testing completo flussi (cliente + fornitore + admin)      :a28, 25-10-2026, 1d
-    Correzioni finali e ottimizzazioni eventuali               :a29, 26-10-2026, 1d
-    Backup pre-lancio + Go Live                                :milestone, a30, 27-10-2026, 0d
+    Testing completo flussi (cliente + fornitore + admin)      :a27, 25-10-2026, 1d
+    Correzioni finali e ottimizzazioni eventuali               :a28, 26-10-2026, 1d
+    Backup pre-lancio + Go Live                                :milestone, a29, 27-10-2026, 0d
 ```
