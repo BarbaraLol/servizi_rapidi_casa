@@ -50,7 +50,7 @@ gantt
     Confronto per pagamenti e lato legale                      :crit, chk1, a18, 08-10-2026, 1d
 
     section 5. Booking & Pagamenti
-    Setup WooCommerce + Stripe + PayPal (split fondi?)         :crit, a19, 13-10-2026, 2d
+    Setup WooCommerce + Stripe + PayPal (probabile split fondi)         :crit, a19, 13-10-2026, 2d
     Configurazione WooCommerce abbonamenti / piani fornitori   :crit, a20, 15-10-2026, 2d
     Setup piani BASE / SILVER / GOLD / PLATINUM                :crit, a21, 17-10-2026, 2d
     Test flussi di pagamento (ambiente sandbox)                :crit, a22, 19-10-2026, 2d
