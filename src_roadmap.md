@@ -15,7 +15,23 @@ Questo documento è la **roadmap ufficiale di progetto** per la realizzazione de
 ## 🗓️ Timeline di Progetto
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {
+  'theme': 'default',
+  'themeVariables': {
+    'fontSize': '20px',
+    'sectionFontSize': '20px'
+  },
+  'gantt': {
+    'barHeight': 34,
+    'barGap': 8,
+    'topPadding': 60,
+    'leftPadding': 220,
+    'gridLineStartPadding': 20,
+    'fontSize': 20,
+    'sectionFontSize': 20,
+    'numberSectionStyles': 4
+  }
+}}%%
 gantt
     title Roadmap Servizi Rapidi Casa - 6 settimane
     dateFormat  DD-MM-YYYY
