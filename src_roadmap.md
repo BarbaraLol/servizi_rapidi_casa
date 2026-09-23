@@ -75,10 +75,11 @@ gantt
     Google Analytics account                                   :crit, a23, 21-10-2026, 1d
     Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a24, 21-10-2026, 2d
     Ottimizzazione velocità (cache, immagini)         :a25, 23-10-2026, 2d
-    Test responsive (mobile, tablet, desktop)                  :a26, 25-10-2026, 1d
+    Attivazione CDN Aruba                             :a26, 23-10-2026, 1d
+    Test responsive (mobile, tablet, desktop)                  :a27, 25-10-2026, 1d
 
     section 8. Testing & Lancio
-    Testing completo flussi (cliente + fornitore + admin)      :a27, 25-10-2026, 1d
-    Correzioni finali e ottimizzazioni eventuali               :a28, 26-10-2026, 1d
-    Backup pre-lancio + Go Live                                :milestone, a29, 27-10-2026, 0d
+    Testing completo flussi (cliente + fornitore + admin)      :a28, 25-10-2026, 1d
+    Correzioni finali e ottimizzazioni eventuali               :a29, 26-10-2026, 1d
+    Backup pre-lancio + Go Live                                :milestone, a30, 27-10-2026, 0d
 ```
