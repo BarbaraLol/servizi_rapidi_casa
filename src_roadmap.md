@@ -41,7 +41,7 @@ gantt
     Acquisto/upgrade VPS Aruba                                 :done, a1, 17-09-2026, 1d
     configurazione server                                      :done, a2, 21-09-2026, 1d
     Installazione WordPress + SSL + DNS                        :done, a3, 21-09-2026, 1d
-    Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 23-09-2026, 1d
+    Configurazione SMTP esterno (Brevo)                        :done, a4, 23-09-2026, 1d
     Installazione plugin base (sicurezza, backup, cache)       :done, a5, 24-09-2026, 1d
 
     section 2. Struttura & Pagine 
