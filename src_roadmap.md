@@ -74,7 +74,7 @@ gantt
     section 7. Rifinitura & SEO
     Google Analytics account                                   :crit, a23, 21-10-2026, 1d
     Ottimizzazione SEO con RankMath (meta, sitemap, dati strutturati)    :a24, 21-10-2026, 2d
-    Ottimizzazione velocità (cache, immagini)         :a25, 23-10-2026, 2d
+    Ottimizzazione velocità (cache, infrastruttura, immagini/CSS/JS)         :a25, 23-10-2026, 2d
     Attivazione CDN Aruba                             :a26, 23-10-2026, 1d
     Test responsive (mobile, tablet, desktop)                  :a27, 25-10-2026, 1d
 
