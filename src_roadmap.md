@@ -42,10 +42,10 @@ gantt
     configurazione server                                      :done, a2, 21-09-2026, 1d
     Installazione WordPress + SSL + DNS                        :done, a3, 21-09-2026, 1d
     Configurazione SMTP esterno (SendGrid/Brevo)               :a4, 23-09-2026, 1d
-    Installazione plugin base (sicurezza, backup, cache)       :a5, 24-09-2026, 1d
+    Installazione plugin base (sicurezza, backup, cache)       :done, a5, 24-09-2026, 1d
 
     section 2. Struttura & Pagine 
-    Confronto per struttura sito                               :crit, a10, 23-09-2026, 1d
+    Confronto per struttura sito                               :done, crit, a10, 23-09-2026, 1d
     Creazione pagine - Home, Chi Siamo, Come Funziona          :a11, 24-09-2026, 4d
     Creazione pagine legali (Privacy, Cookie, Termini)         :a12, 23-09-2026, 10d
     Setup categorie servizi (idraulico, elettricista, ecc.)    :a13, 28-09-2026, 2d
